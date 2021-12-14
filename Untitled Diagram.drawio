@@ -1,1 +1,164 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T00:03:30.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="15.9.6" etag="GybBN8v6eRdFj3JUqO8Y" type="github"><diagram id="qBqh4NgCsPHLTdyULnEV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-14T01:41:54.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="FJr7nQJgRMD0PvWzE2Dt" version="15.9.6" type="github">
+  <diagram id="qBqh4NgCsPHLTdyULnEV" name="Page-1">
+    <mxGraphModel dx="1929" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-5" value="Parametros Iniciais" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="30" width="230" height="120" as="geometry">
+            <mxRectangle x="70" y="20" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-8" value="Diretorio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XnLFECDx4N6wEJcCAEnT-5">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-6" value="Cargo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XnLFECDx4N6wEJcCAEnT-5">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-7" value="QuantidadeDaBusca" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XnLFECDx4N6wEJcCAEnT-5">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-13" value="&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Fazer login no linkedin&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Acessar o link:&amp;nbsp;&lt;a href=&quot;https://www.linkedin.com/search/results/people/?origin=FACETED_SEARCH&amp;amp;title=java&quot; style=&quot;box-sizing: border-box ; cursor: pointer&quot;&gt;https://www.linkedin.com/search/results/people/?origin=FACETED_SEARCH&amp;amp;title=&lt;/a&gt;{cargo}&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Criar uma lista de urls de perfis&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Entrar no perfil do usuario e baixar o pdf&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br style=&quot;box-sizing: border-box&quot;&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Parametros de entrada:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Cargo&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;box-sizing: border-box&quot;&gt;Limite de pessoas&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box&quot;&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;box-sizing: border-box&quot;&gt;Diretorio de criação do excel&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;box-sizing: border-box&quot;&gt;&lt;br style=&quot;box-sizing: border-box&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Criação de excel com&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui vss (regular)&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Data | Nome da pessoa + sequencia | Cargo | link&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="40" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-14" value="Abrir google no link&lt;br&gt;&quot;&lt;a href=&quot;https://www.linkedin.com/search/results/people/?origin=FACETED_SEARCH&amp;amp;title=java&quot; style=&quot;font-size: 14px ; box-sizing: border-box ; cursor: pointer&quot;&gt;https://www.linkedin.com/search/results/people/?origin=FACETED_SEARCH&amp;amp;title=&lt;/a&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;{cargo}&lt;/span&gt;&quot;&lt;br&gt;&lt;br&gt;Diretório personalizado:&lt;br&gt;C:\temp\Linkedin Currículos\Currículos PDF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-19" value="Limpar pasta &lt;br&gt;{Diretorio}\Linkedin Currículos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="230" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-20" value="Criar Pasta&lt;br&gt;{Diretorio}\Currículos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="300" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-21" value="Criar Csv&lt;br&gt;Resultado de Pesquisa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="370" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-26" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Chamar Rotina:&lt;br&gt;&amp;nbsp;Criar Diretório&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-27" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Chamar Rotina:&lt;br&gt;&amp;nbsp;Login&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="554.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-29" value="Buscar Elemento (Digitar Email)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="630" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-30" value="Buscar Elemento (Digitar Senha)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="700" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-32" value="Buscar Elemento (Clicar em Entrar)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="770" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-35" value="Buscar Elementos (Lista de Pessoas)&lt;br&gt;Pegar a lista de pessoas que o Linkedin reotrnou" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="850" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-38" value="Varrer Lista" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-39" target="XnLFECDx4N6wEJcCAEnT-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-39" value="Declarar Variável:&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;linkPerfil&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;nomePessoa&amp;nbsp; = String&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;cargoAtual&amp;nbsp; &amp;nbsp; &amp;nbsp; = String&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;horaFeita&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; = DateTime.Now.ToString(&quot;dd/MM/yyyy&quot;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1108" width="346" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-41" target="XnLFECDx4N6wEJcCAEnT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-41" value="Abrir nova Janela com o Perfil Escolhido" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1010" width="346" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-42" value="Salvar Pdf do Perfil" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2010" width="266" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-45" value="Escrever no Csv&lt;br&gt;Link do Perfil;nomePessoa" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2090" width="266" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-46" target="XnLFECDx4N6wEJcCAEnT-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547" y="1290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-46" target="XnLFECDx4N6wEJcCAEnT-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-46" value="Try" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="406.62" y="1230" width="87.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-47" value="Atribuir Valor Variável&lt;br&gt;linkPerfil = Link do Perfil" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="495.37" y="1270" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-51" target="XnLFECDx4N6wEJcCAEnT-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1412" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-51" target="XnLFECDx4N6wEJcCAEnT-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-51" value="Catch" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="406.62" y="1339" width="87.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-55" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Atribuir Valor Variável&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;linkPerfil = Não Encontrado&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="496.38" y="1382" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-57" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Atribuir Valor Variável&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;nomePessoa = Não Encontrado&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="501.32" y="1636" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-58" target="XnLFECDx4N6wEJcCAEnT-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-58" target="XnLFECDx4N6wEJcCAEnT-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-58" value="Catch" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="406.57" y="1596" width="87.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-59" value="Atribuir Valor Variável&lt;br&gt;nomePessoa = Nome da Pessoa" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="501.32" y="1527" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-60" target="XnLFECDx4N6wEJcCAEnT-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-60" target="XnLFECDx4N6wEJcCAEnT-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-60" value="Try" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="405.94" y="1490" width="87.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-65" target="XnLFECDx4N6wEJcCAEnT-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1767" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-65" target="XnLFECDx4N6wEJcCAEnT-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-65" value="Try" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="407.31" y="1740" width="87.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-66" value="Atribuir Valor Variável&lt;br&gt;cargoAtual = Link do Perfil" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="502.69" y="1777" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XnLFECDx4N6wEJcCAEnT-67" target="XnLFECDx4N6wEJcCAEnT-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="451" y="1916" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-67" value="Catch" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="406.94" y="1846" width="87.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XnLFECDx4N6wEJcCAEnT-68" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Atribuir Valor Variável&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;linkPerfil = Não Encontrado&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="502.69" y="1886" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
