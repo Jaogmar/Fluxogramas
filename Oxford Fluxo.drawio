@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T05:23:24.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="G5Q7bw6yj0Xa_mFv1oXi" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T21:53:13.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4EJv50AAPwHS9xS9esbo" version="16.0.3" type="github">
   <diagram id="LhGp1zi9yCU6JkfK6iwG" name="Page-1">
-    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="540" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-2" target="Nitk-ao7ToeJCBeXne2f-3">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nitk-ao7ToeJCBeXne2f-2" target="Nitk-ao7ToeJCBeXne2f-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-2" value="Ínicio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-2" value="Ínicio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="90" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-3" target="Nitk-ao7ToeJCBeXne2f-4">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nitk-ao7ToeJCBeXne2f-3" target="Nitk-ao7ToeJCBeXne2f-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-3" value="Abrir Google&lt;br&gt;https://americanasmarketplace.com.br/login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-3" value="Abrir Google&lt;br&gt;https://americanasmarketplace.com.br/login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="224" y="130" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-4" target="Nitk-ao7ToeJCBeXne2f-8">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nitk-ao7ToeJCBeXne2f-4" target="Nitk-ao7ToeJCBeXne2f-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="635" y="210" />
@@ -28,73 +28,77 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-4" value="Efetuar Login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-4" value="Efetuar Login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="585" y="130" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-8" target="Nitk-ao7ToeJCBeXne2f-9">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nitk-ao7ToeJCBeXne2f-8" target="Nitk-ao7ToeJCBeXne2f-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-8" target="Nitk-ao7ToeJCBeXne2f-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Nitk-ao7ToeJCBeXne2f-19" target="Nitk-ao7ToeJCBeXne2f-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="300" />
+              <mxPoint x="290" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-8" value="Acessar &quot;Conta Corrente&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-8" value="Acessar &quot;Conta Corrente&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="225" y="230" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-9" target="Nitk-ao7ToeJCBeXne2f-19">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nitk-ao7ToeJCBeXne2f-9" target="Nitk-ao7ToeJCBeXne2f-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-9" value="Exportar Repasse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-9" value="Exportar Repasse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="406" y="230" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fillColor=#CCFF99;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fillColor=#CCFF99;" parent="1" vertex="1">
           <mxGeometry x="750" y="130" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-16" value="Efetuar Login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-16" value="Efetuar Login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="750" y="135" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-19" value="Pegar Todos os Items do Repasse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-19" value="Pegar Todos os Items do Repasse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="585" y="230" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fillColor=#CCFF99;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fillColor=#CCFF99;" parent="1" vertex="1">
           <mxGeometry x="750" y="230" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-22" value="Pegar Items Repasse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-22" value="Pegar Items Repasse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-28" value="Decidir Cliente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-28" value="Decidir Cliente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="335" y="545" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-29" target="Nitk-ao7ToeJCBeXne2f-31">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nitk-ao7ToeJCBeXne2f-29" target="Nitk-ao7ToeJCBeXne2f-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-29" value="Varrer Items do Repasse" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-29" value="Varrer Repasse" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="250" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-30" value="Verificar se Item existe na planilha do Excel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="555" y="405" width="160" height="60" as="geometry" />
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="Nitk-ao7ToeJCBeXne2f-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="435" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-37" target="Nitk-ao7ToeJCBeXne2f-30">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="Nitk-ao7ToeJCBeXne2f-34" target="Nitk-ao7ToeJCBeXne2f-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-34" target="Nitk-ao7ToeJCBeXne2f-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-31" value="Verificar se item existe &lt;br&gt;na planilha RP" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-31" value="Verificar se item existe &lt;br&gt;na planilha RP" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="336" y="380" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-34" value="Não" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-34" value="Não" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="405" y="510" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-31" target="Nitk-ao7ToeJCBeXne2f-34">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="Nitk-ao7ToeJCBeXne2f-31" target="Nitk-ao7ToeJCBeXne2f-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="470" as="sourcePoint" />
             <mxPoint x="420" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-37" value="Sim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-37" value="Sim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="430" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Nitk-ao7ToeJCBeXne2f-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="Nitk-ao7ToeJCBeXne2f-31" target="Nitk-ao7ToeJCBeXne2f-37">
+        <mxCell id="Nitk-ao7ToeJCBeXne2f-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" parent="1" source="Nitk-ao7ToeJCBeXne2f-31" target="Nitk-ao7ToeJCBeXne2f-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="415" as="sourcePoint" />
             <mxPoint x="550" y="415" as="targetPoint" />
